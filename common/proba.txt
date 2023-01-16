@@ -1,0 +1,1 @@
+TEST 2 flags and 1 file (Two for '-e' flag) Test done with 0 errors
